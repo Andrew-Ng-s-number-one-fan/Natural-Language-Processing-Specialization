@@ -2,6 +2,8 @@
 <i>A series of 4 courses offered by deeplearning.ai</i>
 
 #### Course 01 - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+* Week 1:
+  * Lab 1:
 
 #### Course 02 - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
 
