@@ -27,7 +27,7 @@
 
 <hr>
 
-#### Course 02 - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+### Course 02 - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
 
 * **Week 1: Autocorrect**
 
@@ -59,8 +59,8 @@
 
 <hr>
 
-#### Course 03 - [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
+### Course 03 - [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
 
 <hr>
 
-#### Course 04 - [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+### Course 04 - [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
