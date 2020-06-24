@@ -10,20 +10,20 @@
   * **Lab 3:** [Visualizing Tweets and the Logistic Regression Model.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W1_N3_Visualizing%20Tweets%20and%20the%20Logistic%20Regression%20Model.ipynb)
   * **Assignment**
   
-* Week 2: Naïve Bayes
-  * Lab: [Visualizing Likelihoods and Confidence Ellipses.ipynb]()
-  * Assignment
+* **Week 2: Naïve Bayes**
+  * **Lab:** [Visualizing Likelihoods and Confidence Ellipses.ipynb]()
+  * **Assignment**
   
-* Week 3: Word Embeddings
-  * Lab 1: [Linear Algebra in Python with Numpy.ipynb]()
-  * Lab 2: [Manipulating Word Embeddings.ipynb]()
-  * Lab 3: [Another Explanation about PCA.ipynb]()
-  * Assignment
+* **Week 3: Word Embeddings**
+  * **Lab 1:** [Linear Algebra in Python with Numpy.ipynb]()
+  * **Lab 2:** [Manipulating Word Embeddings.ipynb]()
+  * **Lab 3:** [Another Explanation about PCA.ipynb]()
+  * **Assignment**
   
-* Week 4: Word Translation
-  * Lab 1: [Rotation Matrices in R2.ipynb]()
-  * Lab 2: [Hash Tables.ipynb]()
-  * Assignment
+* **Week 4: Word Translation**
+  * **Lab 1:** [Rotation Matrices in R2.ipynb]()
+  * **Lab 2:** [Hash Tables.ipynb]()
+  * **Assignment**
 
 <hr>
 
