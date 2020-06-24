@@ -1,7 +1,7 @@
 # [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 <i>A series of 4 courses offered by deeplearning.ai</i>
 
-### Course 01 - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+#### Course 01 - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
 
 * Week 1: Logistic Regression
 
@@ -25,7 +25,8 @@
   * Lab 2: [Hash Tables.ipynb]()
   * Assignment
 
-### Course 02 - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+<br>
+#### Course 02 - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
 
 * Week 1: Autocorrect
 
@@ -55,6 +56,6 @@
   * Lab 5: [Word embeddings Step by Step.ipynb]()
   * Assignment
 
-### Course 03 - [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
+#### Course 03 - [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
 
-### Course 04 - [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+#### Course 04 - [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
