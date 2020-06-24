@@ -1,6 +1,8 @@
 # [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 <i>A series of 4 courses offered by deeplearning.ai</i>
 
+<br>
+
 #### Course 01 - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
 
 * Week 1: Logistic Regression
@@ -26,6 +28,7 @@
   * Assignment
 
 <br>
+
 #### Course 02 - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
 
 * Week 1: Autocorrect
