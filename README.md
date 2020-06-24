@@ -25,7 +25,7 @@
   * Lab 2: [Hash Tables.ipynb]()
   * Assignment
 
-<br>
+<hr>
 
 #### Course 02 - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
 
