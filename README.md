@@ -17,7 +17,7 @@
 * **Week 3: Word Embeddings**
   * **Lab 1:** [Linear Algebra in Python with Numpy.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W3_N1_Linear%20Algebra%20in%20Python%20with%20NumPy.ipynb)
   * **Lab 2:** [Manipulating Word Embeddings.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W3_N2_Manipulating%20Word%20Embeddings.ipynb)
-  * **Lab 3:** [Another Explanation about PCA.ipynb]()
+  * **Lab 3:** [Another Explanation about PCA.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W3_N3_Another%20Explanation%20about%20PCA.ipynb)
   * **Assignment:** Word Embeddings
   
 * **Week 4: Word Translation**
