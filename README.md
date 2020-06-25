@@ -12,7 +12,7 @@
   
 * **Week 2: Naïve Bayes**
   * **Lab:** [Visualizing Likelihoods and Confidence Ellipses.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W2_N1_Visualizing%20Likelihoods%20and%20Confidence%20Ellipses.ipynb)
-  * **Assignment:** Naïve Bayes
+  * **Assignment:** [Naïve Bayes.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W2_Assignment.ipynb)
   
 * **Week 3: Word Embeddings**
   * **Lab 1:** [Linear Algebra in Python with Numpy.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W3_N1_Linear%20Algebra%20in%20Python%20with%20NumPy.ipynb)
