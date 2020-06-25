@@ -8,7 +8,7 @@
   * **Lab 1:** [Preprocessing.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W1_N1_Preprocessing.ipynb)
   * **Lab 2:** [Building and Visualizing Word Frequencies.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W1_N2_Building%20and%20Visualizing%20Word%20Frequencies.ipynb)
   * **Lab 3:** [Visualizing Tweets and the Logistic Regression Model.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W1_N3_Visualizing%20Tweets%20and%20the%20Logistic%20Regression%20Model.ipynb)
-  * **Assignment:** [Logistic Regression.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W1_Assignment.ipynb)
+  * **Assignment:** Logistic Regression
   
 * **Week 2: Naïve Bayes**
   * **Lab:** [Visualizing Likelihoods and Confidence Ellipses.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W2_N1_Visualizing%20Likelihoods%20and%20Confidence%20Ellipses.ipynb)
