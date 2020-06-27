@@ -31,7 +31,7 @@
 
 * **Week 1: Autocorrect**
 
-  * **Lab 1:** [Building the Vocabulary.ipynb]()
+  * **Lab 1:** [Building the Vocabulary.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/02%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/C2_W1_N1_Building%20the%20Vocabulary.ipynb)
   * **Lab 2:** [Candidates from Edits.ipynb]()
   * **Assignment:** Autocorrect
   
