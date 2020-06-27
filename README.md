@@ -22,8 +22,8 @@
   
 * **Week 4: Word Translation**
   * **Lab 1:** [Rotation Matrices in R2.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W4_N1_Vector%20Manipulation%20in%20Python.ipynb)
-  * **Lab 2:** [Hash Tables.ipynb]()
-  * **Assignment:** Word Translation
+  * **Lab 2:** [Hash Tables.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/01%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/C1_W4_N2_Hash%20Functions%20and%20Multiplanes.ipynb)
+  * **Assignment:** [Word Translation.ipynb]()
 
 <hr>
 
@@ -33,7 +33,7 @@
 
   * **Lab 1:** [Building the Vocabulary.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/02%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/C2_W1_N1_Building%20the%20Vocabulary.ipynb)
   * **Lab 2:** [Candidates from Edits.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Natural-Language-Processing-Specialization/blob/master/02%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/C2_W1_N2_Candidates%20from%20Edits.ipynb)
-  * **Assignment:** Autocorrect
+  * **Assignment:** [Autocorrect.ipynb]()
   
 * **Week 2: Part of Speech Tagging**
 
