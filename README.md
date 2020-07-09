@@ -39,14 +39,14 @@
 
   * **Lab 1:** [Working with Text Data 1.ipynb]()
   * **Lab 2:** [Working with Text Data 2.ipynb]()
-  * **Assignment:** Part of Speech Tagging
+  * **Assignment:** [Part of Speech Tagging.ipynb]()
   
 * **Week 3: Autocomplete**
 
   * **Lab 1:** [Corpus Preprocessing for N-grams.ipynb]()
   * **Lab 2:** [Building the Language Model.ipynb]()
   * **Lab 3:** [Language Model Generalization.ipynb]()
-  * **Assignment:** Autocomplete
+  * **Assignment:** [Autocomplete.ipynb]()
   
 * **Week 4: Word Embeddings**
 
@@ -55,7 +55,7 @@
   * **Lab 3:** [Training the CBOW Model.ipynb]()
   * **Lab 4:** [Word Embeddings.ipynb]()
   * **Lab 5:** [Word embeddings Step by Step.ipynb]()
-  * **Assignment:** Word Embeddings
+  * **Assignment:** [Word Embeddings.ipynb]()
 
 <hr>
 
